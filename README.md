@@ -1,5 +1,3 @@
-# CLICK TO WATCH DEMO OF THE APP
-[![Bank App Demo Video](https://i.ytimg.com/vi/Qt9l7ImmQx8/hqdefault.jpg)](https://www.youtube.com/watch?v=Qt9l7ImmQx8&feature=youtu.be)
 
 # PROJECT DETAILS
 
